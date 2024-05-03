@@ -6,7 +6,8 @@
         <classes>
             <class name="TestFood">
                 <methods>
-                    <include name="SearchMealByNameTest"/>
+                    <include name="searchDishByNameTest"/>
+                    <include name="checkForCategoriesTest"/>
                 </methods>
             </class>
         </classes>
