@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5534109d-0050-4768-9649-382018e3ead4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Endpoints/ListEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/General/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DishMaker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DishMaker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuite.XML" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuite.XML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Endpoints/BaseEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Endpoints/BaseEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Endpoints/SearchEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Endpoints/SearchEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Endpoints/BaseEndpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Endpoints/BaseEndpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Endpoints/SearchEndpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Endpoints/SearchEndpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestFood.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestFood.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2fcews7k2g103agk1RVMV2kEvhA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/leandroasano/Leo/Projects/DishMaker/TestSuite.XML.executor": "Run",
+    "TestNG.TestFood.executor": "Run",
+    "git-widget-placeholder": "base",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/leandroasano/Leo/Projects/DishMaker"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="/Users/leandroasano/Leo/Projects/DishMaker/TestSuite.XML" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DishMaker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestSuite.XML" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/leandroasano/Leo/Projects/DishMaker/TestSuite.XML" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5534109d-0050-4768-9649-382018e3ead4" name="Changes" comment="" />
+      <created>1714105034378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714105034378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestFood.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
